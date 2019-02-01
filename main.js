@@ -1,6 +1,6 @@
 // import modules Game.market.createOrder(ORDER_SELL, RESOURCE_LEMERGIUM, 0.5, 1000, "W38N28");
 var startCpu = Game.cpu.getUsed();
-console.log("Start = " + startCpu + " Bucket " + Game.cpu.bucket );
+//console.log("Start = " + startCpu + " Bucket " + Game.cpu.bucket );
 //console.log( Game.cpu.getUsed() - startCpu );
 require('prototype.spawn')(); 
 //var _ = require('lodash');
